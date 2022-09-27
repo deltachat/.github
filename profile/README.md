@@ -1,4 +1,4 @@
-|DeltaChat|[Deltachat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|
+|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|
 |----|---|---|
 
 
