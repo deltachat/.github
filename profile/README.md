@@ -19,7 +19,7 @@
 - Follow us on [Fediverse](https://chaos.social/web/@delta) and
   [Twitter](https://twitter.com/delta_chat) for announcements.
 - Talk with us over IRC #deltachat on Libera.Chat ([webclient](https://web.libera.chat/#deltachat))
-- Translate DeltaChat into your Language on [Transifex](https://www.transifex.com/delta-chat/public/)
+- Translate Delta Chat into your language on [Transifex](https://www.transifex.com/delta-chat/public/)
 
 <!--
 
