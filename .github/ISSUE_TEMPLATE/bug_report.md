@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <!--
-This is a bug report tracker. New features are discussed in the forum: https://support.delta.chat
+This is a bug report tracker. New features are discussed in the forum: https://support.delta.chat/c/features/6
 Please fill out as much of this form as you can (leaving out stuff that is not applicable is ok).
 -->
 
