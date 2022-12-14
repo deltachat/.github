@@ -20,6 +20,7 @@
   [Twitter](https://twitter.com/delta_chat) for announcements.
 - Talk with us over IRC #deltachat on Libera.Chat ([webclient](https://web.libera.chat/#deltachat))
 - Translate Delta Chat into your language on [Transifex](https://www.transifex.com/delta-chat/public/)
+- Glance at the [cosmos](https://cosmos.delta.chat)
 
 <!--
 
