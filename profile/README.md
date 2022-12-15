@@ -1,5 +1,5 @@
-|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|
-|----|---|---|
+|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|[cosmos](https://cosmos.delta.chat)|
+|----|---|---|---|
 
 
 ## Delta Chat is a messaging app that works over e-mail
@@ -20,7 +20,6 @@
   [Twitter](https://twitter.com/delta_chat) for announcements.
 - Talk with us over IRC #deltachat on Libera.Chat ([webclient](https://web.libera.chat/#deltachat))
 - Translate Delta Chat into your language on [Transifex](https://www.transifex.com/delta-chat/public/)
-- Glance at the [cosmos](https://cosmos.delta.chat)
 
 <!--
 
