@@ -1,5 +1,5 @@
-|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|
-|----|---|---|
+|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|[cosmos](https://cosmos.delta.chat)|
+|----|---|---|---|
 
 
 ## Delta Chat is a messaging app that works over e-mail
