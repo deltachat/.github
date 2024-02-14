@@ -17,7 +17,6 @@
 - Read our [Frequently Asked Questions](https://delta.chat/en/help)
 - Ask a question or suggest a feature in our [Forum](https://support.delta.chat/)
 - Follow us on [Fediverse](https://chaos.social/web/@delta) for announcements.
-- Talk with us over IRC #deltachat on Libera.Chat ([webclient](https://web.libera.chat/#deltachat))
 - Translate Delta Chat into your language on [Transifex](https://www.transifex.com/delta-chat/public/)
 
 <!--
