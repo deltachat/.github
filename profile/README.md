@@ -15,7 +15,7 @@
 
 - Visit our website: https://delta.chat
 - Read our [Frequently Asked Questions](https://delta.chat/en/help)
-- Ask a question or suggest a feature in our [Forum](https://support.delta.chat/)
+- Ask a question or suggest a feature in our [Forum](https://support.delta.chat/) or on [other channels](https://delta.chat/en/contribute)
 - Follow us on [Fediverse](https://chaos.social/web/@delta) for announcements.
 - Translate Delta Chat into your language on [Transifex](https://www.transifex.com/delta-chat/public/)
 
