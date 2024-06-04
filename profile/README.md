@@ -5,11 +5,15 @@
 ## Delta Chat is a messaging app that works over e-mail
 
 <!-- TODO introduction paragraph -->
-💬 Message anyone with an e-mail address [even if they don’t use Delta Chat](https://www.youtube-nocookie.com/embed/8LbrGXKZN70).
+💬 Reliable instant messaging with multi-profile and multi-device support
 
-🥳 Enjoy interactive chat experiences through [webxdc apps](https://webxdc.org/).
+⚡️ Sign up to [secure fast chatmail servers](chatmail) or use [classic e-mail servers](https://providers.delta.chat/)
 
-🔒 All your data stays on your device and email account.
+🥳 Interactive [web apps in chats](https://webxdc.org/) for gaming and collaboration
+
+🔒 [Audited end-to-end encryption](https://delta.chat/en/2024-03-25-crypto-analysis-securejoin) safe against network and server attacks
+
+👉 [F](https://en.wikipedia.org/wiki/Free_software)[OSS](https://en.wikipedia.org/wiki/Open-source_software) software, built on [Internet Standards](https://github.com/deltachat/deltachat-core-rust/blob/master/standards.md), avoiding [xkcd927](https://xkcd.com/927/) :)
 
 ## More
 
