@@ -1,4 +1,4 @@
-|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[webxdc: Private Apps](https://github.com/webxdc)|[cosmos](https://cosmos.delta.chat)|
+|DeltaChat|[DeltaChat Bots](https://github.com/deltachat-bot)|[chatmail infrastructure](https://github.com/chatmail)|[webxdc: Private Apps](https://github.com/webxdc)|[cosmos](https://cosmos.delta.chat)|
 |----|---|---|---|
 
 
