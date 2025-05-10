@@ -2,7 +2,7 @@
 |----|---|---|---|---|
 
 
-## Delta Chat is a messaging app that works over e-mail
+## Decentralized private messenger with chat-shared tools and games
 
 <!-- TODO introduction paragraph -->
 💬 Reliable instant messaging with multi-profile and multi-device support
